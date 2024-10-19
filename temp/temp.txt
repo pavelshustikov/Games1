@@ -1,0 +1,13 @@
+каталогC:\Users\Николай\Games не создан
+каталогC:\Users\Николай\Games\src создан
+каталогC:\Users\Николай\Games\res создан
+каталогC:\Users\Николай\Games\savegames создан
+каталогC:\Users\Николай\Games\temp создан
+каталогC:\Users\Николай\Games\src\main создан
+каталогC:\Users\Николай\Games\src\test создан
+каталогC:\Users\Николай\Games\res\drawables создан
+каталогC:\Users\Николай\Games\res\vectors создан
+каталогC:\Users\Николай\Games\res\icons создан
+файлC:\Users\Николай\Games\src\main\Main.java создан
+файлC:\Users\Николай\Games\src\main\Utils.java создан
+файлC:\Users\Николай\Games\temp\temp.txt создан
